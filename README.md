@@ -21,6 +21,18 @@ $ php artisan --version
 
 $ postgres --version
 +  postgres (PostgreSQL) 12.2
+
+$ yarn list --depth=0
++  yarn list v1.22.4
+    ...
++  ├─ react@16.13.1
+    ...
+
+$ npm --version
++  6.14.4
+
+$ node --version
++  v12.16.2
 ```
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
