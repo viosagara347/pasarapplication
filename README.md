@@ -1,6 +1,25 @@
 # pasarapplication
  build with laravel at its finest
 
+```diff
+$ php -version
++  PHP 7.4.5 (cli) (built: Apr 14 2020 16:17:34) ( ZTS Visual C++ 2017 x64 )
+   Copyright (c) The PHP Group
+   Zend Engine v3.4.0, Copyright (c) Zend Technologies
+
+$ composer
+   ______
+  / ____/___  ____ ___  ____  ____  ________  _____
+ / /   / __ \/ __ `__ \/ __ \/ __ \/ ___/ _ \/ ___/
+/ /___/ /_/ / / / / / / /_/ / /_/ (__  )  __/ /
+\____/\____/_/ /_/ /_/ .___/\____/____/\___/_/
+                    /_/
++  Composer version 1.10.5 2020-04-10 11:44:22
+
+$ php artisan --version
++  Laravel Framework 7.6.1
+```
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
